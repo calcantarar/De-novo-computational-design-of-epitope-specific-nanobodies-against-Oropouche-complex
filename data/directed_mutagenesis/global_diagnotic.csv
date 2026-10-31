@@ -1,0 +1,13 @@
+experimento,tipo_epitopo,umbrales,total_evaluados,validos,ruta_fasta
+orovn_8qf4_B.result,B,RELAJADOS (Epítopo B),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_B.result/outputs/orovn_8qf4/design.fasta
+orovn_8qf4_B1.result,B,RELAJADOS (Epítopo B),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_B1.result/outputs/orovn_8qf4_B/design.fasta
+orovn_8qf4_B2.result,B,RELAJADOS (Epítopo B),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_B2.result/outputs/orovn_8qf4_B_9cu9t/design.fasta
+orovn_8qf4_C.result,C,ESTRICTOS (Epítopo C),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_C.result/outputs/orovn_8qf4_C/design.fasta
+orovn_8qf4_C1.result,C,ESTRICTOS (Epítopo C),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_C1.result/outputs/orovn_8qf4_C/design.fasta
+orovn_8qf4_C2.result,C,ESTRICTOS (Epítopo C),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_8qf4_C2.result/outputs/orovn_8qf4_C_8esqq/design.fasta
+orovn_9ezu_B.result,B,RELAJADOS (Epítopo B),64,4,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_B.result/outputs/orovn_9ezu_B/design.fasta
+orovn_9ezu_B1.result,B,RELAJADOS (Epítopo B),64,0,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_B1.result/outputs/orovn_9ezu_B/design.fasta
+orovn_9ezu_B2.result,B,RELAJADOS (Epítopo B),64,2,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_B2.result/outputs/orovn_9ezu_B2/design.fasta
+orovn_9ezu_C.result,C,ESTRICTOS (Epítopo C),64,6,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_C.result/outputs/orovn_9ezu_C/design.fasta
+orovn_9ezu_C1.result,C,ESTRICTOS (Epítopo C),64,1,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_C1.result/outputs/orovn_9ezu_C1/design.fasta
+orovn_9ezu_C2.result,C,ESTRICTOS (Epítopo C),64,1,/mnt/c/Users/craff/OneDrive/Desktop/inmunosero/MUTAGENESIS/orovn_9ezu_C2.result/outputs/orovn_9ezu_C2/design.fasta
