@@ -1,4 +1,4 @@
-# De novo computational design of epitope-specific nanobodies against the Orthobunyavirus oropoucheense nucleocapsid for point-of-care diagnostics
+# De novo computational design of epitope-specific nanobodies against the _Orthobunyavirus oropoucheense_ nucleocapsid for point-of-care diagnostics
 Alcántara-Ríos, C. ; Hernandez, A. ; Sandoval, G.
 
 ## Overview
