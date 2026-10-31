@@ -1,6 +1,6 @@
 # De novo computational design of epitope-specific nanobodies against the Orthobunyavirus oropoucheense nucleocapsid for point-of-care diagnostics
-Alcántara-Ríos, C.¹ ; Hernandez, A.¹ ; Sandoval, G.¹
-¹ Faculty of Biological Sciences, Universidad Nacional Mayor de San Marcos, Peru
+Alcántara-Ríos, C. ; Hernandez, A. ; Sandoval, G.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Abstract
 The 2023-2025 Oropouche outbreak, with over 23,000 cases across the American continent, exposed critical public health gaps. Although RT-qPCR remains the diagnostic gold standard, it requires specialized infrastructure inaccessible in endemic rural areas. Coupled with reinfection rates approaching 60%, these gaps underscore the urgent need for low-cost point-of-care (POC) alternatives such as lateral flow assays. Traditional nanobody discovery relies on animal immunization, which is slow and unable to target predefined epitopes, and no epitope-directed POC reagents have been reported for the Orthobunyavirus oropoucheense species complex.
