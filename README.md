@@ -17,5 +17,5 @@ This repository contains the computational pipeline, structural models, analysis
 │   └── gromacs/              # .mdp files for energy minimization, NVT, NPT, and 100 ns production
 ├── figures/
 │   └── MD_figures.py         # Python script for RMSD, RMSF, and H-bond extraction
-├── docs/                     # Poster abstract, figures, and supplemental tables
+├── docs/                     # Poster, abstract and supplemental tables
 └── README.md
