@@ -1,10 +1,8 @@
-# 🧬 In Silico Pipeline & Model Parameters
-
 This document details the configuration parameters used across the computational workflow for the *de novo* nanobody design targeting the **Orthobunyavirus oropoucheense** nucleocapsid (N) protein.
 
 ---
 
-## 🎯 Defined Epitope Hotspots
+## Defined Epitope Hotspots
 
 | Epitope | Target Residues | Target Description |
 | :--- | :---: | :--- |
@@ -13,9 +11,9 @@ This document details the configuration parameters used across the computational
 
 ---
 
-## ⚙️ De Novo Design Configurations
+## De Novo Design Configurations
 
-### 🔷 Scaffold 1: `9EZU`
+### Scaffold 1: `9EZU`
 
 <details open>
 <summary><b>Click to expand/collapse Scaffold 9EZU parameters</b></summary>
@@ -85,17 +83,6 @@ initial_guess: FALSE
 
 </details>
 
----
-
-## 📊 Summary Comparison
-
-| Stage | Parameter | Scaffold `9EZU` | Scaffold `8QF4` |
-| :--- | :--- | :---: | :---: |
-| **RFdiffusion** | `num_designs` | `8` | `100–500` |
-| | `iterations` | `50` | `50` |
-| | `contigs` | `A1-231/0 B1-23/...` | `A1-231/0 B1-25/...` |
-| **ProteinMPNN** | `mpnn_sampling_temp` | `0.1` | `0.1` |
-| | `use_solubleMPNN` | `ACTIVATED` | `ACTIVATED` |
-| | `rm_aa` | `C` | `C` |
+---| | `rm_aa` | `C` | `C` |
 | **AlphaFold** | `use_multimer` | `ACTIVATED` | `ACTIVATED` |
 | | `num_recycles` | `3` | `3` |
