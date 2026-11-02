@@ -2,7 +2,7 @@
 
 This document contains the structural, conservation, and physicochemical evaluation tables for candidate epitopes of the **Orthobunyavirus oropoucheense** nucleocapsid (N) protein and the evaluated nanobody scaffolds.
 
-\---
+---
 
 ## Table 1. Candidate Epitopes Characterization
 
@@ -12,7 +12,7 @@ This document contains the structural, conservation, and physicochemical evaluat
 |**B**|75–85|`NHFPQFQSNPV` *(11 aa)*|0.01290|0.44070|46.64%|0.15918|
 |**C**|171–186|`DVNFMKKVLRQRYGQK` *(16 aa)*|0.01667|0.41801|42.25%|0.18488|
 
-\---
+---
 
 ## Table 2. Local Sequence Identity Against Simbu Serogroup Homologs
 
@@ -24,7 +24,7 @@ This document contains the structural, conservation, and physicochemical evaluat
 |**Manzanilla virus**|69.23%|100.00%|81.25%|**High**|
 |**Bunyamwera virus**|30.76%|45.45%|31.25%|**Low–Null**|
 
-\---
+---
 
 ## 
 
@@ -38,7 +38,7 @@ This document contains the structural, conservation, and physicochemical evaluat
 |**Mayaro virus**|*Togaviridae*|$> 1.0$|$> 1.0$|$> 1.0$|**Null**|
 |**Hantavirus**|*Hantaviridae*|$> 1.0$|$> 1.0$|$> 1.0$|**Null**|
 
-\---
+---
 
 ## 
 
@@ -50,7 +50,7 @@ This document contains the structural, conservation, and physicochemical evaluat
 |**B**|N75 (16%), Q81 (58%), V85 (38%)|**Moderate**|Partial accessibility|
 |**C**|F174 (46%), R180 (50%), R182 (41%)|**Low**|Exposed epitope|
 
-\---
+---
 
 ## 
 
