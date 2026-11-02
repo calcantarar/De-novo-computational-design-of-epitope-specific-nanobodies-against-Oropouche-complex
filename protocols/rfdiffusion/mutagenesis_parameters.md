@@ -82,7 +82,3 @@ initial_guess: FALSE
 ```
 
 </details>
-
----| | `rm_aa` | `C` | `C` |
-| **AlphaFold** | `use_multimer` | `ACTIVATED` | `ACTIVATED` |
-| | `num_recycles` | `3` | `3` |
