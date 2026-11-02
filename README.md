@@ -7,8 +7,11 @@ This repository contains the computational pipeline, structural models, analysis
 ## Repository Structure
 ```text
 ├── data/
-│   ├── raw_sequences/        # MMSeqs2 curated sequence alignments
-│   └── pdb_models/           # Initial and refined PDB structures (Epitope B & C complex designs)
+│   ├── fasta_sequences/            # Sequences retrieved from NCBI virus and MMSeqs2 curated sequence alignments
+│   └── pdb_models/                 # Initial and refined PDB structures
+│   └── restraint-driven_docking/   # Selected results from HADDOCK
+│   └── epitope_prediction/         # Merged results from DTU services, IEDB and conservation metrics of OROV N
+│   └── directed_mutagenesis/       # Filtered and selected PDB structures
 ├── protocols/
 │   ├── rfdiffusion/          # Config files for CDR redesign
 │   └── gromacs/              # .mdp files for energy minimization, NVT, NPT, and 100 ns production
