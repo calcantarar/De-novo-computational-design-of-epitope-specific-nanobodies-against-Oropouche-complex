@@ -13,7 +13,7 @@ This repository contains the computational pipeline, structural models, analysis
 │   └── epitope_prediction/         # Merged results from DTU services, IEDB and conservation metrics of OROV N
 │   └── directed_mutagenesis/       # Filtered and selected PDB structures
 ├── protocols/
-│   ├── rfdiffusion/          # Config files for CDR redesign
+│   ├── rfdiffusion/          # Configuration for CDR redesign in Difussion.py
 │   └── gromacs/              # .mdp files for energy minimization, NVT, NPT, and 100 ns production
 ├── figures/
 │   └── MD_figures.py         # Python script for RMSD, RMSF, and H-bond extraction
