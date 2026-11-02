@@ -12,8 +12,7 @@ This repository contains the computational pipeline, structural models, analysis
 ├── protocols/
 │   ├── rfdiffusion/          # Config files for CDR redesign
 │   └── gromacs/              # .mdp files for energy minimization, NVT, NPT, and 100 ns production
-├── scripts/
-│   ├── pymol_alignment.py    # Structural superimposition and visualization scripts
-│   └── md_analysis.sh        # GROMACS/Python scripts for RMSD, RMSF, and H-bond extraction
+├── figures/
+│   └── MD_figures.py         # Python script for RMSD, RMSF, and H-bond extraction
 ├── docs/                     # Poster abstract, figures, and supplemental tables
 └── README.md
