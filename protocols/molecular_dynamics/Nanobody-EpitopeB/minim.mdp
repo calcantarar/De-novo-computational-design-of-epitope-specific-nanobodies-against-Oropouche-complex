@@ -1,0 +1,13 @@
+integrator    = steep
+emtol         = 500.0
+emstep        = 0.001
+nsteps        = 100000
+cutoff-scheme = Verlet
+nstlist       = 10
+rcoulomb      = 1.0
+rvdw          = 1.0
+coulombtype   = PME
+pme_order     = 4
+fourierspacing = 0.16
+DispCorr      = EnerPres
+pbc           = xyz
