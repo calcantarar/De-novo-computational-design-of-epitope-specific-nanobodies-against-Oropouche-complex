@@ -1,3 +1,6 @@
+[![DOI Code](https://zenodo.org/badge/DOI/10.5281/zenodo.23994366.svg)](https://doi.org/10.5281/zenodo.23994366)
+[![DOI Dataset](https://img.shields.io/badge/Zenodo-MD_Dataset-blue.svg)](https://doi.org/10.5281/zenodo.23965995)
+
 # De novo computational design of epitope-specific nanobodies against the _Orthobunyavirus oropoucheense_ nucleocapsid for point-of-care diagnostics
 Alcántara-Ríos, C. ; Hernandez, A. ; Sandoval, G.
 
@@ -19,3 +22,12 @@ This repository contains the computational pipeline, structural models, analysis
 │   └── MD_figures.py         # Python script for RMSD, RMSF, and H-bond extraction
 ├── docs/                     # Poster, abstract and supplemental tables
 └── README.md
+```
+
+## Cite and data availability
+
+* **Code and computational pipeline (v1.0.0):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23994366.svg)](https://doi.org/10.5281/zenodo.23994366)
+  * Includes filter scripts, metric analysis, raw data and tables, processed `.xvg` files for the figure generation (`MD_figures.py`).
+
+* **Molecular dynamics raw dataset (100 ns):** [![DOI](https://img.shields.io/badge/Zenodo-Dataset-blue.svg)](https://doi.org/10.5281/zenodo.23965995)
+  * Contains the GROMACS complete trajectories (`.xtc`), topologies (`.top`/`.itp`) and initial structures (`.gro`/`.tpr`) for the VHH-OROVN complexes against Epitope B and C.
