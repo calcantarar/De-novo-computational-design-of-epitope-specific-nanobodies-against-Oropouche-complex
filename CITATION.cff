@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+  - family-names: "Alcántara Ríos"
+    given-names: "César Rafael"
+  - family-names: "Sandoval Peña"
+    given-names: "Gustavo Adolfo"
+  - family-names: "Hernandez Zelada"
+    given-names: "Alvaro Sebastian"
+title: "De-novo computational design of epitope-specific nanobodies against Oropouche complex"
+version: 1.0.0
+doi: 10.5281/zenodo.23994366
+date-released: 2026-11-06
+url: "https://github.com/calcantarar/De-novo-computational-design-of-epitope-specific-nanobodies-against-Oropouche-complex"
